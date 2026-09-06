@@ -20,4 +20,3 @@ A data analysis project using KNIME and Power BI to explore customer behaviour a
 
 - `customer_analysis.knwf` - KNIME workflow
 - `customer_analysis.pbix` - Power BI report
-- `screenshots/` - Project screenshots
